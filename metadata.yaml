@@ -1,0 +1,33 @@
+_repo: From-Manassas-to-AppomattoxMemoirs-of-The-Civil-War-in-America_38418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Longstreet, James
+    birthdate: 1821
+    deathdate: 1904
+    gutenberg_agent_id: '39460'
+    url: http://www.gutenberg.org/2009/agents/39460
+    wikipedia: https://en.wikipedia.org/wiki/James_Longstreet
+description: ''
+gutenberg_issued: '2011-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38418'
+  lccn: '50044807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Longstreet, James, 1821-1904'
+- !lcsh 'Confederate States of America. Army -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+- !lcsh 'Generals -- Confederate States of America -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+title: 'From Manassas to Appomattox: Memoirs of the Civil War in America'
+url: http://www.gutenberg.org/ebooks/38418
